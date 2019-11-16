@@ -1,0 +1,5 @@
+﻿It is a class library project. It holds POCO classes along with configuration classes. 
+It represents the CoreData Entities layer of the onion architecture. 
+These classes are used to create database tables. It’s a core and central part of the application.
+
+https://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/

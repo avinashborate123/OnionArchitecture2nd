@@ -1,0 +1,7 @@
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreData\bin\Debug\netcoreapp3.0\CoreData.deps.json
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreData\bin\Debug\netcoreapp3.0\CoreData.dll
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreData\bin\Debug\netcoreapp3.0\CoreData.pdb
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreData\obj\Debug\netcoreapp3.0\CoreData.AssemblyInfoInputs.cache
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreData\obj\Debug\netcoreapp3.0\CoreData.AssemblyInfo.cs
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreData\obj\Debug\netcoreapp3.0\CoreData.dll
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreData\obj\Debug\netcoreapp3.0\CoreData.pdb

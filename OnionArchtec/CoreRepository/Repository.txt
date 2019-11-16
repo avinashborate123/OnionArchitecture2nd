@@ -1,0 +1,5 @@
+﻿It is a second class library project. 
+It holds generic repository class with its interface implementation.
+It also holds DbContext class. The Entity Framework Code First data access approach needs to create a data access
+context class that inherits from the DbContext class. 
+This project represents the Repository layer of the onion architecture.

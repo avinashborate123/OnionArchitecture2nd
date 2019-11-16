@@ -1,0 +1,11 @@
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\bin\Debug\netcoreapp3.0\CoreRepository.deps.json
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\bin\Debug\netcoreapp3.0\CoreRepository.dll
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\bin\Debug\netcoreapp3.0\CoreRepository.pdb
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\bin\Debug\netcoreapp3.0\CoreData.dll
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\bin\Debug\netcoreapp3.0\CoreData.pdb
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\obj\Debug\netcoreapp3.0\CoreRepository.csprojAssemblyReference.cache
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\obj\Debug\netcoreapp3.0\CoreRepository.AssemblyInfoInputs.cache
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\obj\Debug\netcoreapp3.0\CoreRepository.AssemblyInfo.cs
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\obj\Debug\netcoreapp3.0\CoreRepository.csproj.CopyComplete
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\obj\Debug\netcoreapp3.0\CoreRepository.dll
+C:\WorkSpace\OnionArchitecture2nd\OnionArchtec\CoreRepository\obj\Debug\netcoreapp3.0\CoreRepository.pdb

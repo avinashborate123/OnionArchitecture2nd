@@ -1,0 +1,4 @@
+﻿It is a third class library project. It holds business logic and interfaces. 
+These interfaces communicate between UI and data access logic. As it communicates via interfaces, 
+it builds applications that are  loosely coupled. 
+This project represents the Service layer of the onion architecture.
